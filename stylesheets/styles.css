@@ -1,0 +1,22 @@
+body {
+  background-color: #999900;
+  text-align: center;
+  color: #fff;
+}
+
+#languages {
+  background-color: aliceblue;
+  color: #000000;
+  margin: auto;
+  text-align: left;
+  padding: 3%;
+  width: 50%;
+}
+
+a {
+  background-color: #999900;
+  color: #fff;
+  padding: 3px 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
